@@ -6,7 +6,7 @@ Full Stack Developer & Systems Administrator
 
 I am a young IT enthusiast and developer from Poland who is truly interested in development and other topics in the field of IT. In my spare time, I enjoy programming and strengthening my skills. I'm also Training BJJ
 
-* 🌍  I'm based in Poldand
+* 🌍  I'm based in Poland
 * 👥  I'm looking to collaborate on interesting projects
 
 <p align="left">
